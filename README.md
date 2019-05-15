@@ -25,5 +25,6 @@
 * 2. 地圖視覺化易操作,視覺直觀清楚。
 * 3. 客製化選項提供使用者針對特定族群進行分析。
 * 4. 描述在該產業下,各村里人口結構以及世代差異、所得所交互影響之結果。
-
+## 產品demo：
+![image](https://github.com/k6784ck/7teaeggsFinalProject/blob/master/freegifmaker.me_2ffeG.gif)
 
